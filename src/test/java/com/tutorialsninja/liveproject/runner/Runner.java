@@ -11,7 +11,7 @@ glue ={"classpath:com.tutorialsninja.liveproject.stepdef"},
                 "pretty",
                 "json:target/cucumber-report/cucumber.json",
                 "html:target/cucumber-report/cucumber.html"},
-tags= "@Register and @One")
+tags= "@Register and @Four")
 public class Runner {
 
 }
