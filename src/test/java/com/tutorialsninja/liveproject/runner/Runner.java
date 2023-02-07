@@ -5,13 +5,13 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = {"classpath:FeatureFiles/Register.feature"},
+@CucumberOptions(features = {"classpath:FeatureFiles/Login.feature"},
 glue ={"classpath:com.tutorialsninja.liveproject.stepdef"},
         plugin = {
                 "pretty",
                 "json:target/cucumber-report/cucumber.json",
                 "html:target/cucumber-report/cucumber.html"},
-tags= "@Register and @Four")
+tags= "@Login and @Four")
 public class Runner {
 
 }
