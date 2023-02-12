@@ -348,3 +348,8 @@
 2023-02-12 22:00:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1403539444
 2023-02-12 22:00:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
 2023-02-12 22:00:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-02-12 22:06:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2023-02-12 22:06:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-02-12 22:06:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1996787860
+2023-02-12 22:06:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2023-02-12 22:06:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
