@@ -10,8 +10,8 @@ glue ={"classpath:com.tutorialsninja.liveproject.stepdef"},
         plugin = {
                 "pretty",
                 "json:target/cucumber-report/cucumber.json",
-                "html:target/cucumber-report/cucumber.html"},
-tags= "@Search and @Two")
+                "html:target/cucumber-report/cucumber.html"})
+//tags= "@Search and @Two")
 public class TestRunner {
 
 }
